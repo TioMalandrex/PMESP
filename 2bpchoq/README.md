@@ -13,6 +13,7 @@ Padronizar conduta, linguagem, tomada de decisão e execução operacional no RP
 
 ### 00-governanca
 - `00-visao-geral-e-governanca.md` — fundamentos, missão, valores, hierarquia funcional e padrões de qualidade de RP.
+- `07-hierarquia-2bpchoq.md` — cadeia de comando, quadro de postos, atribuições e regras de precedência no serviço.
 
 ### 01-conduta
 - `01-conduta-policial-e-postura.md` — ética, comportamento, disciplina, postura em serviço e fora dele.
