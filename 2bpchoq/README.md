@@ -17,6 +17,9 @@ Padronizar conduta, linguagem, tomada de decisão e execução operacional no RP
 ### 07-hierarquia
 - `07-hierarquia-2bpchoq.md` — cadeia de comando, quadro de postos, atribuições e regras de precedência no serviço.
 
+### 08-sops
+- `08-sops-bpchoq.md` — definição detalhada dos SOPs do BPCHOQ, estrutura, aplicação, revisão e governança operacional.
+
 ### 01-conduta
 - `01-conduta-policial-e-postura.md` — ética, comportamento, disciplina, postura em serviço e fora dele.
 
