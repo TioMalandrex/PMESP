@@ -1,29 +1,29 @@
 # 08 — SOPs da Guarnição (ROMU)
 
 ## 1. Finalidade
-Padronizar a execução da ROMU em ocorrências repetíveis, reduzindo improviso e aumentando previsibilidade tática.
+Padronizar atuação tática de maior criticidade, reduzindo improviso e aumentando segurança jurídica e operacional.
 
 ## 2. Estrutura obrigatória de SOP
 1. objetivo;
-2. aplicação;
+2. contexto de uso;
 3. gatilho de acionamento;
 4. composição mínima;
-5. sequência operacional detalhada;
-6. regras de segurança;
-7. critérios de escalonamento;
-8. parâmetros de encerramento;
-9. modelo de registro pós-ação.
+5. sequência de intervenção;
+6. limites e salvaguardas;
+7. escalonamento;
+8. encerramento;
+9. registro e auditoria.
 
 ## 3. SOPs mínimos da ROMU
-- SOP de acionamento e deslocamento;
-- SOP de chegada e tomada de comando de cena;
-- SOP de abordagem progressiva;
-- SOP de contenção e estabilização;
-- SOP de integração com outras guarnições;
-- SOP de debrief e correção de procedimento.
+- SOP de mobilização tática;
+- SOP de isolamento e setorização;
+- SOP de abordagem de alto risco;
+- SOP de apoio a equipe convencional sob pressão;
+- SOP de integração IAMO/ROMU/Convencional;
+- SOP de debrief e correção de falhas.
 
 ## 4. Auditoria de conformidade
-Toda ocorrência relevante deve ser auditada por aderência ao SOP, com classificação de conformidade e plano de correção.
+Ocorrências táticas devem ser revisadas por aderência ao SOP e por adequação do uso progressivo da força.
 
 ## 5. Ciclo de melhoria
-Aplicar ciclo mensal: análise de incidentes, atualização doutrinária, treinamento e revalidação operacional.
+Treinamento contínuo, simulação de cenários e revisão periódica de protocolos.

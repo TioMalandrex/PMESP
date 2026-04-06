@@ -1,28 +1,28 @@
 # 06 — Códigos, Checklists e Fluxos (Convencional)
 
 ## 1. Código de status operacional
-- **QAP:** em prontidão.
-- **QSL:** ordem confirmada.
-- **QRV:** equipe pronta para deslocamento.
-- **QTH:** localização atual da guarnição.
-- **QRR:** solicitar reforço imediato.
+- **QAP:** em escuta/prontidão;
+- **QSL:** compreendido;
+- **QRV:** pronto para atendimento;
+- **QTH:** localização atual;
+- **QRR:** solicitação de apoio.
 
 ## 2. Checklist pré-turno
-- equipamentos individuais conferidos;
-- meios de comunicação testados;
-- viaturas aptas e abastecidas;
-- composição de equipe validada;
-- área de responsabilidade definida.
+- viatura e equipamentos testados;
+- rádio operacional;
+- setor e prioridades definidos;
+- equipe alinhada sobre pontos sensíveis;
+- canais de escalonamento revisados.
 
-## 3. Checklist de chegada em ocorrência
-- confirmar comando da cena;
-- estabelecer perímetro inicial;
-- identificar risco imediato e rotas de segurança;
-- informar status ao despacho;
-- definir função de cada operador.
+## 3. Checklist de atendimento
+- identificar fato e envolvidos;
+- avaliar risco imediato;
+- adotar contenção proporcional;
+- comunicar status;
+- definir encaminhamento/apoio.
 
 ## 4. Fluxo resumido de crise
-Despacho → aproximação segura → contenção inicial → escalonamento técnico → estabilização → encerramento com registro.
+Chamado → avaliação local → contenção inicial → escalonamento (se necessário) → encerramento/registro.
 
-## 5. Pós-ocorrência obrigatório
-Todo evento relevante deve conter horário, decisão tomada, fundamento tático e avaliação final da equipe.
+## 5. Pós-ocorrência
+Registrar natureza, horário, local, ação aplicada, apoio acionado e desfecho.

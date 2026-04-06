@@ -3,11 +3,11 @@
 Este diretório contém o manual completo da guarnição **IAMO**, organizado no mesmo padrão modular da pasta `2bpchoq`.
 
 ## Identidade da guarnição
-- **Descrição:** Inspetoria/Agrupamento de Apoio Motorizado Ostensivo
-- **Perfil:** resposta rápida motorizada com prioridade para suporte dinâmico e contenção inicial
-- **Atuação principal:** apoio imediato, estabilização de cenas críticas e reforço de perímetro urbano
-- **Composição-base:** 1 líder, 1 operador de rádio e 2 a 6 agentes conforme criticidade
-- **Meios operacionais:** SUV de patrulha, viatura de apoio e unidade de comando quando escalada
+- **Descrição:** Apoio Imediato Motorizado Ostensivo (referência funcional para RP)
+- **Perfil:** resposta rápida de alta mobilidade, com foco em chegada precoce e estabilização inicial
+- **Atuação principal:** primeiro atendimento em ocorrências dinâmicas, contenção inicial e preservação da cena até reforço
+- **Composição-base:** dupla ou trio em motocicletas, com liderança definida por antiguidade funcional
+- **Meios operacionais:** motocicletas de patrulhamento e apoio de viatura quando necessário
 
 ## Estrutura documental
 - `00-governanca` — visão, missão, indicadores e governança da guarnição.
@@ -21,4 +21,4 @@ Este diretório contém o manual completo da guarnição **IAMO**, organizado no
 - `08-sops` — estrutura, governança e aplicação dos SOPs da guarnição.
 
 ## Diretriz de qualidade
-A guarnição deve operar com padronização, proporcionalidade, registro completo e comunicação clara, preservando continuidade narrativa e fair play em RP.
+A IAMO deve operar com mobilidade, leitura de risco e registro completo, sem substituir indevidamente funções táticas de grupamentos de choque.

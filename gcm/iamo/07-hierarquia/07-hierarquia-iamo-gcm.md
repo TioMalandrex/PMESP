@@ -2,25 +2,25 @@
 
 ## 1. Estrutura funcional
 - Comando-Geral da GCM;
-- Coordenação Operacional;
-- Chefia da guarnição IAMO;
-- Líder de equipe/viatura;
-- Operadores.
+- comando operacional do turno;
+- supervisão de área;
+- líder funcional IAMO;
+- operadores.
 
 ## 2. Precedência em serviço
-A autoridade funcional designada para a ocorrência tem precedência, independentemente de setor de origem, até encerramento formal da missão.
+Em ocorrência ativa, prevalece o comando formalmente designado para a cena.
 
 ## 3. Responsabilidades por nível
-- comando-geral: diretriz estratégica e auditoria de desempenho;
-- coordenação operacional: distribuição de efetivo e priorização de eventos;
-- chefia da guarnição: padronização técnica e supervisão de SOP;
-- líder de equipe: decisão tática de curto prazo;
-- operador: execução disciplinada e reporte contínuo.
+- comando-geral: diretrizes e controle estratégico;
+- comando operacional: priorização de recursos;
+- supervisão: fiscalização de procedimento;
+- líder IAMO: execução tática imediata;
+- operador: cumprimento técnico e reporte contínuo.
 
 ## 4. Substituição de comando
-Na ausência de superior direto, assume o mais antigo em serviço até formalização de nova chefia.
+Na ausência de líder, assume o mais antigo até nova designação.
 
 ## 5. Vedações hierárquicas
-- dupla linha de comando na mesma cena;
-- ordem verbal sem confirmação em evento crítico;
-- alteração de plano sem ciência do comando funcional.
+- ordens conflitantes simultâneas;
+- quebra de fluxo de comando;
+- decisão de alto risco sem comunicação prévia quando possível.

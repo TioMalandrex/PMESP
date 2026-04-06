@@ -1,28 +1,28 @@
 # 06 — Códigos, Checklists e Fluxos (IAMO)
 
 ## 1. Código de status operacional
-- **QAP:** em prontidão.
-- **QSL:** ordem confirmada.
-- **QRV:** equipe pronta para deslocamento.
-- **QTH:** localização atual da guarnição.
-- **QRR:** solicitar reforço imediato.
+- **QAP:** em escuta e prontidão.
+- **QSL:** ordem recebida e compreendida.
+- **QRV:** pronto para deslocamento.
+- **QTH:** localização atual.
+- **QRR:** solicitação de reforço imediato.
 
 ## 2. Checklist pré-turno
-- equipamentos individuais conferidos;
-- meios de comunicação testados;
-- viaturas aptas e abastecidas;
-- composição de equipe validada;
-- área de responsabilidade definida.
+- motocicletas vistoriadas (freio, pneus, iluminação);
+- rádio e bateria reserva testados;
+- EPI completo;
+- definição de dupla/trio e setor;
+- rotas críticas do turno revisadas.
 
-## 3. Checklist de chegada em ocorrência
-- confirmar comando da cena;
-- estabelecer perímetro inicial;
-- identificar risco imediato e rotas de segurança;
-- informar status ao despacho;
-- definir função de cada operador.
+## 3. Checklist de chegada
+- posicionar com cobertura e rota de saída;
+- confirmar tipo de ocorrência;
+- avaliar risco imediato;
+- comunicar status ao despacho;
+- definir ação inicial e necessidade de apoio.
 
 ## 4. Fluxo resumido de crise
-Despacho → aproximação segura → contenção inicial → escalonamento técnico → estabilização → encerramento com registro.
+Despacho → deslocamento seguro → chegada técnica → contenção inicial → escalonamento/estabilização → encerramento com registro.
 
-## 5. Pós-ocorrência obrigatório
-Todo evento relevante deve conter horário, decisão tomada, fundamento tático e avaliação final da equipe.
+## 5. Pós-ocorrência
+Registrar tempo de resposta, decisão tática, fundamento da escalada e resultado final.

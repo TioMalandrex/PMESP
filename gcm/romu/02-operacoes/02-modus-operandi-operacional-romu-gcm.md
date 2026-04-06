@@ -1,24 +1,20 @@
 # 02 — Modus Operandi Operacional (ROMU)
 
 ## 1. Fases padrão de atuação
-1. Recebimento e validação do despacho;
-2. Aproximação tática com leitura de risco;
-3. Estabelecimento de comando e setores;
-4. Intervenção escalonada conforme reação;
-5. Controle da cena e transição para encerramento;
-6. Registro, debrief e lições aprendidas.
+1. recebimento de missão e objetivo tático;
+2. deslocamento coordenado e aproximação segura;
+3. isolamento e setorização da cena;
+4. intervenção por progressão controlada;
+5. estabilização e consolidação do perímetro;
+6. transição para investigação/rotina e debrief.
 
 ## 2. Matriz de decisão rápida
-- **Risco baixo:** presença, verbalização e contenção mínima.
-- **Risco médio:** contenção setorial, apoio técnico e reforço de perímetro.
-- **Risco alto:** comando unificado, isolamento ampliado e ação especializada.
+- **Risco médio:** presença tática e controle de acesso.
+- **Risco alto:** isolamento ampliado e comando único.
+- **Risco crítico:** priorização de vidas, reforço imediato e controle rigoroso de movimentação.
 
 ## 3. Regras de escalonamento
-Escalar apoio quando houver:
-- múltiplos suspeitos com movimentação agressiva;
-- possibilidade de armamento;
-- risco de crise com refém ou aglomeração;
-- perda de controle visual da área de contato.
+Escalonar supervisão/comando superior em ocorrência com múltiplos autores, possível armamento, aglomeração hostil ou risco de crise prolongada.
 
 ## 4. Critérios de encerramento
-A ocorrência é encerrada apenas após neutralização de risco, preservação da cena, identificação de envolvidos e registro completo.
+Encerramento apenas com risco residual controlado, área segura e cadeia de custódia/registro preservada.

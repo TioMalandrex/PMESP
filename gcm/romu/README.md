@@ -4,10 +4,10 @@ Este diretório contém o manual completo da guarnição **ROMU**, organizado no
 
 ## Identidade da guarnição
 - **Descrição:** Ronda Ostensiva Municipal
-- **Perfil:** grupamento tático ostensivo para ocorrências de média e alta complexidade
-- **Atuação principal:** intervenção tática, saturação de área de risco e resposta qualificada em crise
-- **Composição-base:** 1 comandante de operação, 2 líderes de equipe e 4 a 10 operadores
-- **Meios operacionais:** caminhonetes táticas, viaturas de transporte e apoio logístico operacional
+- **Perfil:** grupamento tático ostensivo para ocorrências de maior criticidade
+- **Atuação principal:** saturação de área, apoio em crise, cumprimento de operações especiais e reforço às equipes territoriais
+- **Composição-base:** equipe em viatura de maior porte, com comandante de guarnição e operadores
+- **Meios operacionais:** viaturas caracterizadas de patrulhamento tático, equipamentos de proteção e contenção
 
 ## Estrutura documental
 - `00-governanca` — visão, missão, indicadores e governança da guarnição.
@@ -21,4 +21,4 @@ Este diretório contém o manual completo da guarnição **ROMU**, organizado no
 - `08-sops` — estrutura, governança e aplicação dos SOPs da guarnição.
 
 ## Diretriz de qualidade
-A guarnição deve operar com padronização, proporcionalidade, registro completo e comunicação clara, preservando continuidade narrativa e fair play em RP.
+A ROMU deve atuar sob disciplina tática, uso progressivo da força e rastreabilidade de decisões, preservando legalidade e proporcionalidade.

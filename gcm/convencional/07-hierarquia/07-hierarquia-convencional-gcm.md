@@ -2,25 +2,25 @@
 
 ## 1. Estrutura funcional
 - Comando-Geral da GCM;
-- Coordenação Operacional;
-- Chefia da guarnição Convencional;
-- Líder de equipe/viatura;
-- Operadores.
+- comando operacional de turno;
+- supervisão territorial;
+- encarregado de setor/guarnição;
+- operadores.
 
 ## 2. Precedência em serviço
-A autoridade funcional designada para a ocorrência tem precedência, independentemente de setor de origem, até encerramento formal da missão.
+Prevalece o comando funcional designado para o setor/ocorrência até encerramento formal.
 
 ## 3. Responsabilidades por nível
-- comando-geral: diretriz estratégica e auditoria de desempenho;
-- coordenação operacional: distribuição de efetivo e priorização de eventos;
-- chefia da guarnição: padronização técnica e supervisão de SOP;
-- líder de equipe: decisão tática de curto prazo;
-- operador: execução disciplinada e reporte contínuo.
+- comando-geral: diretrizes e metas institucionais;
+- comando operacional: alocação de recursos;
+- supervisão: controle de qualidade da atuação;
+- encarregado: decisão local imediata;
+- operador: execução e reporte.
 
 ## 4. Substituição de comando
-Na ausência de superior direto, assume o mais antigo em serviço até formalização de nova chefia.
+Na ausência do encarregado, assume o mais antigo até nova designação.
 
 ## 5. Vedações hierárquicas
-- dupla linha de comando na mesma cena;
-- ordem verbal sem confirmação em evento crítico;
-- alteração de plano sem ciência do comando funcional.
+- comando duplo em atendimento;
+- descumprimento de ordem operacional lícita;
+- omissão de informação crítica ao superior.

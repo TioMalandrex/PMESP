@@ -1,24 +1,25 @@
 # 04 — Doutrina da Guarnição (Convencional)
 
-## 1. Natureza tática
-A Convencional é orientada por visibilidade, prevenção, resposta inicial e acionamento correto de suporte especializado, com prioridade para coordenação, previsibilidade e domínio progressivo da cena.
+## 1. Natureza operacional
+Guarnição-base de presença territorial contínua, orientada à prevenção e ao atendimento inicial de ocorrências urbanas.
 
 ## 2. Competências essenciais
-- leitura de terreno e risco em ambiente urbano;
-- posicionamento seguro com cobertura mútua;
-- progressão por setores com comando único;
-- comunicação em malha com equipes de apoio.
+- patrulhamento de proximidade;
+- identificação precoce de risco;
+- mediação inicial de conflito;
+- proteção de equipamentos públicos;
+- acionamento correto de apoio especializado.
 
 ## 3. Configurações de emprego
-- **Emprego isolado:** ocorrências compatíveis com capacidade orgânica.
-- **Emprego integrado:** atuação com outras guarnições sob comando funcional único.
-- **Emprego crítico:** operação de curta duração com reforço imediato.
+- **Emprego preventivo:** rondas em áreas sensíveis.
+- **Emprego de atendimento:** resposta a chamados cotidianos.
+- **Emprego integrado:** atuação com IAMO e ROMU em cenário escalado.
 
 ## 4. Limites técnicos
-A guarnição não deve manter operação prolongada sem logística, sem reposição de efetivo e sem atualização formal de comando.
+Não manter confronto/controle tático prolongado sem apoio especializado quando o risco ultrapassar a capacidade orgânica.
 
 ## 5. Critérios de excelência
-- resposta dentro do tempo previsto;
-- controle da cena sem ruptura de proporcionalidade;
-- baixa incidência de retrabalho operacional;
-- alto índice de conformidade com SOP.
+- alta presença territorial;
+- baixa reincidência local;
+- bom padrão de atendimento;
+- registro consistente e acionável.

@@ -1,24 +1,25 @@
 # 04 — Doutrina da Guarnição (ROMU)
 
 ## 1. Natureza tática
-A ROMU é orientada por domínio de área, contenção qualificada e segurança de equipes em operações críticas, com prioridade para coordenação, previsibilidade e domínio progressivo da cena.
+Guarnição de reforço ostensivo para cenários de maior risco, com foco em superioridade organizacional, disciplina de equipe e controle territorial.
 
 ## 2. Competências essenciais
-- leitura de terreno e risco em ambiente urbano;
-- posicionamento seguro com cobertura mútua;
-- progressão por setores com comando único;
-- comunicação em malha com equipes de apoio.
+- leitura tática de ambiente urbano;
+- progressão e contenção setorizada;
+- atuação coordenada em equipe;
+- proteção de perímetro e de terceiros;
+- transição segura para fase pós-crise.
 
 ## 3. Configurações de emprego
-- **Emprego isolado:** ocorrências compatíveis com capacidade orgânica.
-- **Emprego integrado:** atuação com outras guarnições sob comando funcional único.
-- **Emprego crítico:** operação de curta duração com reforço imediato.
+- **Emprego planejado:** operações de saturação e presença qualificada.
+- **Emprego reativo:** apoio a ocorrências críticas em andamento.
+- **Emprego integrado:** coordenação com equipes convencionais e apoio motorizado.
 
 ## 4. Limites técnicos
-A guarnição não deve manter operação prolongada sem logística, sem reposição de efetivo e sem atualização formal de comando.
+ROMU não deve operar sem comando definido, sem objetivos claros ou sem condição mínima de segurança de equipe.
 
 ## 5. Critérios de excelência
-- resposta dentro do tempo previsto;
-- controle da cena sem ruptura de proporcionalidade;
-- baixa incidência de retrabalho operacional;
-- alto índice de conformidade com SOP.
+- controle rápido de área;
+- baixa incidência de improviso;
+- aderência rigorosa a SOP;
+- debrief com lições acionáveis.

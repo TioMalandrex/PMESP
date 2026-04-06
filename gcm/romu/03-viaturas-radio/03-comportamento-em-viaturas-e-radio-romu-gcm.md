@@ -1,26 +1,26 @@
 # 03 — Comportamento em Viaturas e Rádio (ROMU)
 
 ## 1. Padrão de viaturas
-A ROMU utiliza: caminhonetes táticas, viaturas de transporte e apoio logístico operacional. Toda saída exige checklist de combustível, iluminação, sinalização e comunicação.
+ROMU opera em viaturas de patrulhamento tático com capacidade de transporte de equipe e equipamentos de contenção.
 
 ## 2. Funções embarcadas
-- condutor: segurança de deslocamento e posicionamento tático;
-- comandante de viatura: decisão imediata e coordenação com comando;
-- operador de rádio: atualização contínua da situação.
+- condutor: posicionamento e segurança veicular;
+- comandante da guarnição: comando da missão;
+- operadores: execução setorizada e cobertura.
 
 ## 3. Protocolo de rádio
-- identificação de prefixo no início e fim da transmissão;
-- mensagens curtas, em ordem cronológica de fatos;
-- confirmação de ordem recebida em formato padrão;
-- atualização de status a cada mudança de fase.
+- comunicação breve e objetiva;
+- uso de linguagem padronizada;
+- confirmação de ordens de intervenção;
+- atualização obrigatória em mudança de fase.
 
 ## 4. Prioridades de tráfego
-1. pedido de apoio crítico;
-2. atualização de risco iminente;
-3. orientação de comando;
-4. comunicações administrativas.
+1. risco iminente à vida;
+2. pedido de reforço tático;
+3. comando e coordenação;
+4. logística operacional.
 
-## 5. Falhas que invalidam operação
-- ausência de confirmação de ordem crítica;
-- deslocamento sem informar rota e status;
-- linguagem ambígua em fase de intervenção.
+## 5. Falhas críticas
+- transmissão confusa em fase de contato;
+- ausência de reporte de mudança tática;
+- saturação indevida do canal em momento crítico.

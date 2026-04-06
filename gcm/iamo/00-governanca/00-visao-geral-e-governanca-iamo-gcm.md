@@ -1,27 +1,27 @@
 # 00 — Visão Geral e Governança (IAMO)
 
 ## 1. Propósito da guarnição
-Consolidar a atuação da IAMO como núcleo especializado da GCM, garantindo resposta técnica, disciplina de comando e eficiência operacional em RP.
+Estabelecer padrão de resposta imediata motorizada para ocorrências urbanas de evolução rápida, com foco em tempo de chegada, contenção inicial e segurança da cena.
 
 ## 2. Missão
-Executar ações de apoio imediato, estabilização de cenas críticas e reforço de perímetro urbano com segurança jurídica de RP, proporcionalidade no uso da força e controle de risco.
+Chegar primeiro, ler risco, estabilizar ambiente e manter controle mínimo necessário até integração com outras equipes da GCM.
 
 ## 3. Visão
-Ser referência de excelência operacional da GCM em cenários urbanos, com rastreabilidade de decisão e alto padrão de coordenação interequipes.
+Ser referência de mobilidade operacional e de intervenção precoce com baixo índice de escalada desnecessária.
 
 ## 4. Valores funcionais
-- disciplina e respeito absoluto à cadeia de comando;
-- foco em segurança da equipe e de terceiros;
-- decisão baseada em risco, informação e legalidade RP;
-- comunicação objetiva e padronizada;
-- debrief obrigatório e melhoria contínua.
+- mobilidade com segurança;
+- disciplina de comunicação;
+- proporcionalidade no uso da força;
+- atuação orientada por risco real;
+- registro completo de decisão.
 
 ## 5. Indicadores de desempenho
-- tempo médio de resposta;
-- taxa de estabilização sem escalada indevida;
-- conformidade com SOP por ocorrência;
-- qualidade de registro e pós-ação;
-- integração efetiva com demais guarnições.
+- tempo de resposta ao despacho;
+- percentual de ocorrências estabilizadas sem lesão;
+- qualidade de transmissão de rádio;
+- taxa de acionamento correto de apoio;
+- aderência aos SOPs.
 
 ## 6. Governança e revisão
-Revisões mensais devem avaliar incidentes, desvios de SOP, lições aprendidas e necessidade de atualização doutrinária.
+Revisão periódica com análise de ocorrências críticas, avaliação de erros de aproximação, lições aprendidas e atualização de procedimentos.

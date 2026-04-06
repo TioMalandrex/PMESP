@@ -1,26 +1,26 @@
 # 01 — Conduta Policial e Postura (IAMO)
 
 ## 1. Princípios de conduta
-A equipe da IAMO deve manter comportamento profissional, linguagem técnica e postura proporcional ao contexto da ocorrência.
+A IAMO atua sob urgência, mas não sob improviso: toda ação deve ser técnica, proporcional e comunicada.
 
 ## 2. Regras de apresentação
-- uniforme e identificação visual conforme escala;
-- equipamentos conferidos antes do início de turno;
-- prontidão física e mental para deslocamento imediato.
+- uniforme e EPI adequados ao patrulhamento em motocicleta;
+- checagem prévia de capacete, rádio e kit de contenção;
+- proibição de iniciar turno com equipamento incompleto.
 
 ## 3. Conduta em serviço
-- verbalização clara e progressiva;
-- decisões reportadas ao comando funcional;
-- manutenção de perímetro e segurança cruzada;
-- respeito à hierarquia sem ruptura de fluxo operacional.
+- verbalização objetiva e firme;
+- manutenção de distância de segurança em abordagem inicial;
+- sinalização imediata ao COPOM/Despacho quando houver mudança de risco;
+- prioridade para proteção de terceiros.
 
-## 4. Conduta fora de ocorrência
-- manutenção de disciplina em base e deslocamento;
-- comunicação de indisponibilidade de forma imediata;
-- vedação de condutas que prejudiquem credibilidade da guarnição.
+## 4. Conduta em deslocamento
+- condução defensiva e previsível;
+- sem ultrapassagens temerárias sem necessidade operacional;
+- preservação da integridade da equipe e do público acima da velocidade.
 
 ## 5. Desvios críticos
-- uso desproporcional de força;
-- quebra de cadeia de comando;
-- omissão de informação relevante;
-- abandono de posição sem substituição.
+- condução imprudente;
+- abordagem sem cobertura mínima;
+- ausência de comunicação de evolução da ocorrência;
+- abandono de posto sem ordem.

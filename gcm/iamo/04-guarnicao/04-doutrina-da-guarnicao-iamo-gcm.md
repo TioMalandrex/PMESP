@@ -1,24 +1,25 @@
 # 04 — Doutrina da Guarnição (IAMO)
 
-## 1. Natureza tática
-A IAMO é orientada por tempo de resposta, leitura tática e manutenção de controle até chegada de reforço, com prioridade para coordenação, previsibilidade e domínio progressivo da cena.
+## 1. Natureza operacional
+Guarnição de intervenção inicial de alta mobilidade, voltada para reduzir tempo entre despacho e primeiro controle da cena.
 
 ## 2. Competências essenciais
-- leitura de terreno e risco em ambiente urbano;
-- posicionamento seguro com cobertura mútua;
-- progressão por setores com comando único;
-- comunicação em malha com equipes de apoio.
+- pilotagem operacional segura;
+- aproximação tática em via pública;
+- leitura de comportamento e risco;
+- contenção inicial com efetivo reduzido;
+- acionamento oportuno de apoio.
 
 ## 3. Configurações de emprego
-- **Emprego isolado:** ocorrências compatíveis com capacidade orgânica.
-- **Emprego integrado:** atuação com outras guarnições sob comando funcional único.
-- **Emprego crítico:** operação de curta duração com reforço imediato.
+- **Emprego preventivo:** patrulhamento orientado por pontos quentes.
+- **Emprego de pronta resposta:** deslocamento prioritário em eventos críticos.
+- **Emprego de apoio:** reforço rápido à guarnição convencional.
 
 ## 4. Limites técnicos
-A guarnição não deve manter operação prolongada sem logística, sem reposição de efetivo e sem atualização formal de comando.
+A IAMO não substitui equipe de contenção prolongada nem operação de alta complexidade sem reforço tático.
 
 ## 5. Critérios de excelência
-- resposta dentro do tempo previsto;
-- controle da cena sem ruptura de proporcionalidade;
-- baixa incidência de retrabalho operacional;
-- alto índice de conformidade com SOP.
+- chegada rápida com segurança;
+- estabilização precoce;
+- comunicação limpa;
+- correta transição de comando quando escalonado.

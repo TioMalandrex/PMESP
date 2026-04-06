@@ -1,26 +1,26 @@
 # 01 — Conduta Policial e Postura (ROMU)
 
 ## 1. Princípios de conduta
-A equipe da ROMU deve manter comportamento profissional, linguagem técnica e postura proporcional ao contexto da ocorrência.
+A ROMU deve manter postura técnica, autocontrole e estrita observância da cadeia de comando.
 
 ## 2. Regras de apresentação
-- uniforme e identificação visual conforme escala;
-- equipamentos conferidos antes do início de turno;
-- prontidão física e mental para deslocamento imediato.
+- uniformização e EPI conforme escala tática;
+- checagem prévia de equipamentos coletivos;
+- briefing obrigatório antes de missão.
 
 ## 3. Conduta em serviço
-- verbalização clara e progressiva;
-- decisões reportadas ao comando funcional;
-- manutenção de perímetro e segurança cruzada;
-- respeito à hierarquia sem ruptura de fluxo operacional.
+- formação e deslocamento conforme cenário;
+- verbalização coordenada por líder designado;
+- registro de decisões críticas em tempo oportuno;
+- uso progressivo da força, sempre proporcional.
 
-## 4. Conduta fora de ocorrência
-- manutenção de disciplina em base e deslocamento;
-- comunicação de indisponibilidade de forma imediata;
-- vedação de condutas que prejudiquem credibilidade da guarnição.
+## 4. Conduta fora de intervenção
+- manutenção de prontidão durante operação;
+- discrição operacional e sigilo de planejamento;
+- preservação da imagem institucional.
 
 ## 5. Desvios críticos
-- uso desproporcional de força;
-- quebra de cadeia de comando;
-- omissão de informação relevante;
-- abandono de posição sem substituição.
+- ruptura de formação sem ordem;
+- iniciativa isolada em fase crítica;
+- uso de força não proporcional;
+- falha deliberada de comunicação.

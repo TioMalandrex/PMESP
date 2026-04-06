@@ -1,28 +1,28 @@
 # 06 — Códigos, Checklists e Fluxos (ROMU)
 
 ## 1. Código de status operacional
-- **QAP:** em prontidão.
-- **QSL:** ordem confirmada.
-- **QRV:** equipe pronta para deslocamento.
-- **QTH:** localização atual da guarnição.
-- **QRR:** solicitar reforço imediato.
+- **QAP:** em prontidão;
+- **QSL:** ciente e confirmado;
+- **QRV:** pronto para missão;
+- **QTH:** posição atual;
+- **QRR:** reforço urgente.
 
 ## 2. Checklist pré-turno
-- equipamentos individuais conferidos;
-- meios de comunicação testados;
-- viaturas aptas e abastecidas;
-- composição de equipe validada;
-- área de responsabilidade definida.
+- viatura e equipamentos coletivos conferidos;
+- rádio e canais testados;
+- distribuição de funções definida;
+- objetivo operacional alinhado;
+- rota de aproximação e retirada previstas.
 
-## 3. Checklist de chegada em ocorrência
-- confirmar comando da cena;
-- estabelecer perímetro inicial;
-- identificar risco imediato e rotas de segurança;
-- informar status ao despacho;
-- definir função de cada operador.
+## 3. Checklist de entrada em cena
+- comando da missão definido;
+- perímetro inicial estabelecido;
+- risco e ameaça avaliados;
+- canal de comando ativo;
+- critério de escalada pactuado.
 
 ## 4. Fluxo resumido de crise
-Despacho → aproximação segura → contenção inicial → escalonamento técnico → estabilização → encerramento com registro.
+Acionamento → mobilização → isolamento → intervenção → estabilização → debrief.
 
-## 5. Pós-ocorrência obrigatório
-Todo evento relevante deve conter horário, decisão tomada, fundamento tático e avaliação final da equipe.
+## 5. Pós-ocorrência
+Registrar decisão de comando, uso de meios, cronologia dos fatos e conformidade com SOP.

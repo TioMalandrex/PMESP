@@ -1,27 +1,27 @@
 # 00 — Visão Geral e Governança (ROMU)
 
 ## 1. Propósito da guarnição
-Consolidar a atuação da ROMU como núcleo especializado da GCM, garantindo resposta técnica, disciplina de comando e eficiência operacional em RP.
+Padronizar a atuação tática ostensiva da ROMU para cenários de maior complexidade, com foco em controle de área, proteção de equipes e estabilização de crise.
 
 ## 2. Missão
-Executar ações de intervenção tática, saturação de área de risco e resposta qualificada em crise com segurança jurídica de RP, proporcionalidade no uso da força e controle de risco.
+Atuar como força de reforço especializado da GCM em ocorrências críticas e operações planejadas.
 
 ## 3. Visão
-Ser referência de excelência operacional da GCM em cenários urbanos, com rastreabilidade de decisão e alto padrão de coordenação interequipes.
+Ser referência de pronto emprego tático com alta disciplina operacional e legalidade.
 
 ## 4. Valores funcionais
-- disciplina e respeito absoluto à cadeia de comando;
-- foco em segurança da equipe e de terceiros;
-- decisão baseada em risco, informação e legalidade RP;
-- comunicação objetiva e padronizada;
-- debrief obrigatório e melhoria contínua.
+- disciplina de comando;
+- proporcionalidade e técnica;
+- coordenação interequipes;
+- preservação da vida;
+- responsabilidade documental.
 
 ## 5. Indicadores de desempenho
-- tempo médio de resposta;
-- taxa de estabilização sem escalada indevida;
-- conformidade com SOP por ocorrência;
-- qualidade de registro e pós-ação;
-- integração efetiva com demais guarnições.
+- tempo de mobilização;
+- qualidade de isolamento/controle de cena;
+- conformidade com SOP tático;
+- incidência de falhas de comunicação;
+- efetividade na redução de risco.
 
 ## 6. Governança e revisão
-Revisões mensais devem avaliar incidentes, desvios de SOP, lições aprendidas e necessidade de atualização doutrinária.
+Revisões regulares devem avaliar intervenções críticas, decisões de escalonamento e necessidade de ajuste doutrinário.

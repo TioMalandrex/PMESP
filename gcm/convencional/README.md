@@ -4,10 +4,10 @@ Este diretório contém o manual completo da guarnição **Convencional**, organ
 
 ## Identidade da guarnição
 - **Descrição:** Patrulhamento Preventivo Convencional
-- **Perfil:** base ostensiva diária de proximidade comunitária e atendimento primário
-- **Atuação principal:** prevenção, triagem de ocorrências e manutenção da presença territorial contínua
-- **Composição-base:** 1 encarregado de setor e 2 a 8 agentes distribuídos por quadrantes
-- **Meios operacionais:** sedan de patrulha, motocicletas de apoio e viatura de supervisão
+- **Perfil:** policiamento administrativo-preventivo de proximidade e presença territorial contínua
+- **Atuação principal:** prevenção, mediação inicial de conflitos, proteção de bens/serviços municipais e atendimento primário
+- **Composição-base:** dupla ou quarteto por setor, com supervisão por encarregado de área
+- **Meios operacionais:** viaturas leves, patrulhamento a pé e apoio motorizado quando escalado
 
 ## Estrutura documental
 - `00-governanca` — visão, missão, indicadores e governança da guarnição.
@@ -21,4 +21,4 @@ Este diretório contém o manual completo da guarnição **Convencional**, organ
 - `08-sops` — estrutura, governança e aplicação dos SOPs da guarnição.
 
 ## Diretriz de qualidade
-A guarnição deve operar com padronização, proporcionalidade, registro completo e comunicação clara, preservando continuidade narrativa e fair play em RP.
+A guarnição Convencional deve priorizar prevenção qualificada, bom atendimento ao cidadão e acionamento correto de apoio especializado.

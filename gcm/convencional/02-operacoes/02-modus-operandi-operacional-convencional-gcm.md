@@ -1,24 +1,20 @@
 # 02 — Modus Operandi Operacional (Convencional)
 
 ## 1. Fases padrão de atuação
-1. Recebimento e validação do despacho;
-2. Aproximação tática com leitura de risco;
-3. Estabelecimento de comando e setores;
-4. Intervenção escalonada conforme reação;
-5. Controle da cena e transição para encerramento;
-6. Registro, debrief e lições aprendidas.
+1. receber ocorrência e qualificar demanda;
+2. deslocar e avaliar contexto local;
+3. atuar preventivamente e estabilizar conflito inicial;
+4. acionar apoio quando necessário;
+5. concluir atendimento e orientar partes;
+6. registrar e reportar.
 
 ## 2. Matriz de decisão rápida
-- **Risco baixo:** presença, verbalização e contenção mínima.
-- **Risco médio:** contenção setorial, apoio técnico e reforço de perímetro.
-- **Risco alto:** comando unificado, isolamento ampliado e ação especializada.
+- **Risco baixo:** orientação, presença e solução local.
+- **Risco médio:** contenção inicial e acionamento preventivo de apoio.
+- **Risco alto:** preservação de vidas, isolamento e acionamento imediato de ROMU/supervisão.
 
 ## 3. Regras de escalonamento
-Escalar apoio quando houver:
-- múltiplos suspeitos com movimentação agressiva;
-- possibilidade de armamento;
-- risco de crise com refém ou aglomeração;
-- perda de controle visual da área de contato.
+Escalonar quando houver ameaça grave, agressividade crescente, indício de armamento ou incapacidade de controle pela equipe local.
 
 ## 4. Critérios de encerramento
-A ocorrência é encerrada apenas após neutralização de risco, preservação da cena, identificação de envolvidos e registro completo.
+Encerramento com risco cessado, partes qualificadas e relato completo no sistema/documentação interna.

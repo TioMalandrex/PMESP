@@ -1,27 +1,27 @@
 # 00 — Visão Geral e Governança (Convencional)
 
 ## 1. Propósito da guarnição
-Consolidar a atuação da Convencional como núcleo especializado da GCM, garantindo resposta técnica, disciplina de comando e eficiência operacional em RP.
+Estabelecer presença ostensiva diária para prevenção, proteção de bens e serviços municipais e atendimento primário ao cidadão.
 
 ## 2. Missão
-Executar ações de prevenção, triagem de ocorrências e manutenção da presença territorial contínua com segurança jurídica de RP, proporcionalidade no uso da força e controle de risco.
+Prevenir ocorrências por presença qualificada, agir de forma proporcional em eventos iniciais e acionar apoio especializado quando necessário.
 
 ## 3. Visão
-Ser referência de excelência operacional da GCM em cenários urbanos, com rastreabilidade de decisão e alto padrão de coordenação interequipes.
+Ser a base territorial confiável da GCM, com proximidade comunitária e capacidade de resposta inicial eficiente.
 
 ## 4. Valores funcionais
-- disciplina e respeito absoluto à cadeia de comando;
-- foco em segurança da equipe e de terceiros;
-- decisão baseada em risco, informação e legalidade RP;
-- comunicação objetiva e padronizada;
-- debrief obrigatório e melhoria contínua.
+- prevenção em primeiro lugar;
+- trato respeitoso com o público;
+- legalidade e impessoalidade;
+- comunicação clara;
+- cooperação com demais guarnições.
 
 ## 5. Indicadores de desempenho
-- tempo médio de resposta;
-- taxa de estabilização sem escalada indevida;
-- conformidade com SOP por ocorrência;
-- qualidade de registro e pós-ação;
-- integração efetiva com demais guarnições.
+- tempo de atendimento primário;
+- taxa de resolução sem escalada;
+- qualidade de registro;
+- reincidência por setor;
+- satisfação do atendimento.
 
 ## 6. Governança e revisão
-Revisões mensais devem avaliar incidentes, desvios de SOP, lições aprendidas e necessidade de atualização doutrinária.
+Revisões de turno devem mapear reincidências, ajustar patrulhamento e revisar acionamentos de apoio.

@@ -1,26 +1,26 @@
 # 03 — Comportamento em Viaturas e Rádio (IAMO)
 
-## 1. Padrão de viaturas
-A IAMO utiliza: SUV de patrulha, viatura de apoio e unidade de comando quando escalada. Toda saída exige checklist de combustível, iluminação, sinalização e comunicação.
+## 1. Plataforma operacional
+A IAMO opera prioritariamente em motocicletas por mobilidade urbana, com apoio de viatura convencional quando a cena exigir retenção prolongada.
 
 ## 2. Funções embarcadas
-- condutor: segurança de deslocamento e posicionamento tático;
-- comandante de viatura: decisão imediata e coordenação com comando;
-- operador de rádio: atualização contínua da situação.
+- condutor 1: aproximação e leitura primária;
+- condutor 2: cobertura e comunicação;
+- líder funcional (quando presente): tomada de decisão e interface com comando.
 
 ## 3. Protocolo de rádio
-- identificação de prefixo no início e fim da transmissão;
-- mensagens curtas, em ordem cronológica de fatos;
-- confirmação de ordem recebida em formato padrão;
-- atualização de status a cada mudança de fase.
+- abrir transmissão com prefixo e local;
+- informar cenário em três blocos: fato, risco, necessidade;
+- confirmar ordens críticas (QSL);
+- informar mudança de fase (chegada, contenção, estabilização, encerramento).
 
 ## 4. Prioridades de tráfego
-1. pedido de apoio crítico;
-2. atualização de risco iminente;
-3. orientação de comando;
-4. comunicações administrativas.
+1. risco à vida;
+2. pedido de reforço;
+3. atualização tática;
+4. tráfego administrativo.
 
-## 5. Falhas que invalidam operação
-- ausência de confirmação de ordem crítica;
-- deslocamento sem informar rota e status;
-- linguagem ambígua em fase de intervenção.
+## 5. Falhas críticas
+- uso de linguagem vaga;
+- omissão de risco real;
+- silêncio prolongado em ocorrência dinâmica.

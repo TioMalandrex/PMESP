@@ -2,25 +2,25 @@
 
 ## 1. Estrutura funcional
 - Comando-Geral da GCM;
-- Coordenação Operacional;
-- Chefia da guarnição ROMU;
-- Líder de equipe/viatura;
-- Operadores.
+- comando operacional;
+- supervisão/inspetoria tática;
+- comandante da guarnição ROMU;
+- operadores de equipe.
 
 ## 2. Precedência em serviço
-A autoridade funcional designada para a ocorrência tem precedência, independentemente de setor de origem, até encerramento formal da missão.
+Na missão ativa, prevalece o comando designado para aquela ocorrência/operação.
 
 ## 3. Responsabilidades por nível
-- comando-geral: diretriz estratégica e auditoria de desempenho;
-- coordenação operacional: distribuição de efetivo e priorização de eventos;
-- chefia da guarnição: padronização técnica e supervisão de SOP;
-- líder de equipe: decisão tática de curto prazo;
-- operador: execução disciplinada e reporte contínuo.
+- comando-geral: diretriz estratégica;
+- comando operacional: priorização de recursos;
+- supervisão tática: controle de execução;
+- comandante ROMU: decisão tática imediata;
+- operador: execução disciplinada.
 
 ## 4. Substituição de comando
-Na ausência de superior direto, assume o mais antigo em serviço até formalização de nova chefia.
+Ausente o comandante, assume o substituto previamente definido ou o mais antigo.
 
 ## 5. Vedações hierárquicas
-- dupla linha de comando na mesma cena;
-- ordem verbal sem confirmação em evento crítico;
-- alteração de plano sem ciência do comando funcional.
+- atuação com comando paralelo;
+- ordem contraditória na mesma cena;
+- quebra de fluxo de comunicação crítica.
