@@ -1,40 +1,20 @@
 # GCM (Anchieta Virtual) — Manual Operacional de RP (FiveM)
 
-Este diretório reúne a documentação base da **Guarda Civil Municipal (GCM) Anchieta Virtual** para uso em RP policial com referência de disciplina e organização em modelo hierárquico militarizado.
+A pasta `/home/runner/work/PMESP/PMESP/gcm` agora está organizada por guarnição, com documentação completa no mesmo padrão modular da pasta `2bpchoq`.
 
-## Objetivo
-Padronizar conduta, comando e execução operacional da GCM no RP, com foco inicial em:
-- **IAMO**;
-- **ROMU**;
-- **Convencional**.
+## Estrutura principal por guarnição
 
-## Estrutura de documentos
+### IAMO
+- Diretório: `/home/runner/work/PMESP/PMESP/gcm/iamo`
+- Conteúdo: governança, conduta, operações, viaturas/rádio, doutrina da guarnição, patrulhamento, anexos, hierarquia e SOPs.
 
-### 00-governanca
-- `00-visao-geral-e-governanca-gcm.md` — missão, visão, valores, escopo e governança documental.
+### ROMU
+- Diretório: `/home/runner/work/PMESP/PMESP/gcm/romu`
+- Conteúdo: governança, conduta, operações, viaturas/rádio, doutrina da guarnição, patrulhamento, anexos, hierarquia e SOPs.
 
-### 01-hierarquia
-- `01-hierarquia-e-cadeia-de-comando-gcm.md` — cadeia de comando, precedência e funções por nível.
+### Convencional
+- Diretório: `/home/runner/work/PMESP/PMESP/gcm/convencional`
+- Conteúdo: governança, conduta, operações, viaturas/rádio, doutrina da guarnição, patrulhamento, anexos, hierarquia e SOPs.
 
-### 02-iamo
-- `02-iamo-gcm.md` — doutrina, perfil de atuação, protocolos operacionais e emprego da IAMO.
-
-### 03-romu
-- `03-romu-gcm.md` — diretrizes da ROMU, saturação, resposta tática e integração em ocorrências críticas.
-
-### 04-convencional
-- `04-convencional-gcm.md` — patrulhamento ordinário, prevenção, atendimento primário e rotina operacional.
-
-### 05-sops
-- `05-sops-gcm.md` — padrão de elaboração, aplicação, revisão e fiscalização dos SOPs da GCM.
-
-## Padrão de uso
-1. Copiar cada arquivo para documento próprio no Google Docs;
-2. Manter títulos/subtítulos para sumário automático;
-3. Registrar versão e data em revisões relevantes;
-4. Validar mudanças operacionais com o comando da unidade.
-
-## Observações
-- Material voltado para **RP (jogo)**;
-- Em conflito com regra do servidor, prevalece a regra do servidor;
-- Toda ação deve preservar fair play, proporcionalidade e continuidade da cena.
+## Diretriz
+Cada guarnição mantém estrutura equivalente à BPCHOQ, porém com conteúdo próprio, detalhado e minucioso da realidade operacional da GCM.
