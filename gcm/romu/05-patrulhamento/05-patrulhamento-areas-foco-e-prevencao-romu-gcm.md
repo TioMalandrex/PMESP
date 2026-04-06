@@ -1,7 +1,7 @@
 # 05 — Patrulhamento, Áreas de Foco e Prevenção (ROMU)
 
 ## 1. Planejamento de área
-ROMU prioriza pontos de alta criticidade e horários com maior probabilidade de conflito ou crimes violentos.
+ROMU prioriza pontos de alta criticidade e horários com maior probabilidade de confronto, resistência organizada ou crimes violentos.
 
 ## 2. Rotina operacional de patrulhamento
 1. briefing de inteligência e missão;
@@ -11,10 +11,10 @@ ROMU prioriza pontos de alta criticidade e horários com maior probabilidade de 
 5. fechamento com avaliação tática do turno.
 
 ## 3. Áreas de foco prioritárias
-- áreas com recorrência de violência;
-- entornos de grandes eventos;
-- zonas com histórico de confronto com equipes;
-- corredores de deslocamento tático.
+- Zona Norte/comunidades com necessidade de incursão planejada;
+- áreas de recorrência de violência armada;
+- entornos de grandes eventos com risco de distúrbio;
+- corredores de deslocamento para reforço rápido.
 
 ## 4. Prevenção orientada por evidência
 A atuação deve combinar dados de recorrência, observação de campo e avaliação pós-ação.

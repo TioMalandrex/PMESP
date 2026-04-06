@@ -11,10 +11,10 @@ Dividir território por setores com prioridade para equipamentos públicos, esco
 5. fechamento com consolidação de dados do setor.
 
 ## 3. Áreas de foco prioritárias
-- patrimônio municipal;
+- Orla e Centro com foco preventivo e proteção de pedestres/turistas;
+- patrimônio municipal e polos de grande circulação;
 - áreas escolares em horários de entrada/saída;
-- pontos com queixas recorrentes;
-- regiões de grande circulação de pedestres.
+- vias de saída estratégicas em apoio a cercos e bloqueios.
 
 ## 4. Prevenção orientada por evidência
 Ajustar rota e permanência com base em histórico de chamados, horários críticos e reincidência territorial.

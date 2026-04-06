@@ -6,7 +6,8 @@ A pasta `/home/runner/work/PMESP/PMESP/gcm` está organizada por guarnição, co
 Este conjunto foi revisado com base em:
 - práticas amplamente adotadas por Guardas Civis Municipais no estado de São Paulo;
 - modelo operacional conhecido da GCM da capital (patrulhamento preventivo, ROMU e apoio motorizado);
-- princípios da Lei Federal nº 13.022/2014 (Estatuto Geral das Guardas Municipais).
+- princípios da Lei Federal nº 13.022/2014 (Estatuto Geral das Guardas Municipais);
+- dados de regulamento interno e POPs operacionais fornecidos para adaptação em RP (hierarquia, níveis de abordagem, códigos de rádio, ética e áreas táticas).
 
 > Observação: siglas e arranjos internos podem variar entre municípios. Em RP, este material deve ser tratado como doutrina-base, passível de ajuste por comando local.
 

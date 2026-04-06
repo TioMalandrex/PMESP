@@ -11,10 +11,10 @@ A IAMO cobre corredores de alta circulação e pontos com histórico de eventos 
 5. fechamento com relatório de pontos sensíveis.
 
 ## 3. Áreas de foco prioritárias
-- terminais e eixos viários;
+- Orla e Centro (coibir roubos e proteger fluxo turístico);
+- corredores de deslocamento e vias de fuga;
 - entorno de equipamentos municipais;
-- áreas de grande fluxo em horários de pico;
-- locais com recorrência de fuga em motocicleta.
+- vias estratégicas de saída para cerco e bloqueio quando acionado.
 
 ## 4. Prevenção orientada por evidência
 Registrar faixa de horário, tipo de evento e padrão de deslocamento para calibrar rotas do turno seguinte.

@@ -14,12 +14,17 @@ A ROMU deve manter postura técnica, autocontrole e estrita observância da cade
 - registro de decisões críticas em tempo oportuno;
 - uso progressivo da força, sempre proporcional.
 
-## 4. Conduta fora de intervenção
+## 4. Ética e RP
+- **Valorização da vida (Fear RP):** evitar heroísmo isolado em ameaça superior.
+- **Anticorrupção:** tolerância zero para desvio funcional.
+- **Uso progressivo da força:** prioridade para controle verbal/técnico, escalando apenas conforme risco real.
+
+## 5. Conduta fora de intervenção
 - manutenção de prontidão durante operação;
 - discrição operacional e sigilo de planejamento;
 - preservação da imagem institucional.
 
-## 5. Desvios críticos
+## 6. Desvios críticos
 - ruptura de formação sem ordem;
 - iniciativa isolada em fase crítica;
 - uso de força não proporcional;

@@ -14,12 +14,17 @@ A IAMO atua sob urgência, mas não sob improviso: toda ação deve ser técnica
 - sinalização imediata ao COPOM/Despacho quando houver mudança de risco;
 - prioridade para proteção de terceiros.
 
-## 4. Conduta em deslocamento
+## 4. Ética e RP
+- **Valorização da vida (Fear RP):** não assumir confronto desproporcional sem apoio.
+- **Anticorrupção:** conduta corrupta é incompatível com a função e com o RP institucional.
+- **Uso progressivo da força:** verbalização → meios não letais → arma de fogo apenas em legítima defesa própria/de terceiros.
+
+## 5. Conduta em deslocamento
 - condução defensiva e previsível;
 - sem ultrapassagens temerárias sem necessidade operacional;
 - preservação da integridade da equipe e do público acima da velocidade.
 
-## 5. Desvios críticos
+## 6. Desvios críticos
 - condução imprudente;
 - abordagem sem cobertura mínima;
 - ausência de comunicação de evolução da ocorrência;

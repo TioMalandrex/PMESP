@@ -14,12 +14,17 @@ A guarnição convencional atua com postura preventiva, firmeza proporcional e f
 - comunicação imediata de risco superior ao nível da guarnição;
 - preservação da cena para equipes de apoio/investigação.
 
-## 4. Conduta em base e deslocamento
+## 4. Ética e RP
+- **Valorização da vida (Fear RP):** aguardar reforço quando houver desvantagem tática.
+- **Anticorrupção:** proibido qualquer favorecimento ilícito ou negociação indevida.
+- **Uso progressivo da força:** verbalização, meios não letais e força letal somente em legítima defesa.
+
+## 5. Conduta em base e deslocamento
 - prontidão de equipe;
 - disciplina de rádio;
 - vedação de conduta incompatível com função pública.
 
-## 5. Desvios críticos
+## 6. Desvios críticos
 - atendimento negligente;
 - tratamento desrespeitoso ao cidadão;
 - omissão de acionamento de reforço;
